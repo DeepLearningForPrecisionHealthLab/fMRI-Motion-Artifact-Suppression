@@ -1,3 +1,6 @@
+"""
+Copyright (c) 2021 The University of Texas Southwestern Medical Center.
+"""
 from functools import partial
 import multiprocessing as mp
 import os

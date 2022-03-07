@@ -10,6 +10,8 @@ Computation of motion artifaction correction metrics:
 
 For computation of RSN recovery via Group ICA, we refer users to the [GIFT
 toolbox](https://trendscenter.org/software/gift/).
+
+Copyright (c) 2021 The University of Texas Southwestern Medical Center.
 '''
 
 # User-specific paths to functional brain atlas and DMN template (binary mask).
