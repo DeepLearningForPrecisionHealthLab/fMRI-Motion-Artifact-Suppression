@@ -1,7 +1,9 @@
 # fMRI Motion Artifact Suppression
 Tools for evaluating the efficacy of motion artifact suppression strategies
 
-Accompanies "Pitfalls and recommended strategies and metrics for suppressing motion artifacts in functional MRI" by Raval et al., currently in press at _Neuroinformatics_ as of March 2022.
+Accompanies Raval et al. ["Pitfalls and recommended strategies and metrics for suppressing motion artifacts in functional MRI"](https://doi.org/10.1007/s12021-022-09565-8), Neuroinformatics (2022).
+
+If viewing from gitfront.io, see our public GitHub repository here: https://github.com/DeepLearningForPrecisionHealthLab/fMRI-Motion-Artifact-Suppression.
 
 ## Usage
 Please see `requirements.txt` for a list of Python dependencies. An example of computing QC metrics on a processed fMRI dataset can be found in the `example.ipynb` notebook. 
